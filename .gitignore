@@ -1,0 +1,13 @@
+# Ignore all files larger than 100MB
+*.*
+!*.*
+size>100M
+# Ignore DS_Store files
+**/.DS_Store
+# Ignore all files in the .idea directory
+.idea/
+# Ignore all files in the .vscode directory
+.vscode/
+# Ignore all files in the .history directory
+.history/
+nyc-property-sales.csv
