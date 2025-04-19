@@ -1,0 +1,155 @@
+REIT Ticker,REIT Type
+ARE,Office
+BXP,Office
+BDN,Office
+CIO,Office
+CDP,Office
+CUZ,Office
+CMCT,Office
+DEI,Office
+DEA,Office
+ESRT,Office
+EQC,Office
+FSP,Office
+HIW,Office
+HPP,Office
+KRC,Office
+NLOP,Office
+OPI,Office
+ONL,Office
+PGRE,Office
+PDM,Office
+SLG,Office
+VNO,Office
+COLD,Industrial
+EGP,Industrial
+FR,Industrial
+ILPT,Industrial
+IIPR,Industrial
+LXP,Industrial
+PLYM,Industrial
+PLD,Industrial
+REXR,Industrial
+STAG,Industrial
+TRNO,Industrial
+AKR,Retail - Shopping Centers
+ALEX,Retail - Shopping Centers
+BRX,Retail - Shopping Centers
+CTO,Retail - Shopping Centers
+FRT,Retail - Shopping Centers
+IVT,Retail - Shopping Centers
+KIM,Retail - Shopping Centers
+KRG,Retail - Shopping Centers
+PECO,Retail - Shopping Centers
+REG,Retail - Shopping Centers
+ROIC,Retail - Shopping Centers
+BFS,Retail - Shopping Centers
+SITC,Retail - Shopping Centers
+SKT,Retail - Shopping Centers
+UE,Retail - Shopping Centers
+WHLR,Retail - Shopping Centers
+WSR,Retail - Shopping Centers
+CBL,Retail - Regional Malls
+MAC,Retail - Regional Malls
+SPG,Retail - Regional Malls
+ADC,Retail - Free Standing
+PINE,Retail - Free Standing
+EPRT,Retail - Free Standing
+FCPT,Retail - Free Standing
+GTY,Retail - Free Standing
+NTST,Retail - Free Standing
+NNN,Retail - Free Standing
+PSTL,Retail - Free Standing
+O,Retail - Free Standing
+AIRC,Residential - Apartments
+AIV,Residential - Apartments
+AVB,Residential - Apartments
+BRT,Residential - Apartments
+CPT,Residential - Apartments
+CSR,Residential - Apartments
+ELME,Residential - Apartments
+EQR,Residential - Apartments
+ESS,Residential - Apartments
+IRT,Residential - Apartments
+MAA,Residential - Apartments
+NXRT,Residential - Apartments
+UDR,Residential - Apartments
+VRE,Residential - Apartments
+ELS,Residential - Manufactured Homes
+SUI,Residential - Manufactured Homes
+UMH,Residential - Manufactured Homes
+AMH,Residential - Single Family
+BHM,Residential - Single Family
+INVH,Residential - Single Family
+ALX,Diversified
+AAT,Diversified
+AHH,Diversified
+BNL,Diversified
+CLPR,Diversified
+GIPR,Diversified
+GOOD,Diversified
+GNL,Diversified
+JBGS,Diversified
+MDRR,Diversified
+MDV,Diversified
+NXDT,Diversified
+OLP,Diversified
+PKST,Diversified
+SQFT,Diversified
+SVC,Diversified
+WPC,Diversified
+AHR,Healthcare
+CTRE,Healthcare
+CHCT,Healthcare
+DHC,Healthcare
+GMRE,Healthcare
+HR,Healthcare
+DOC,Healthcare
+LTC,Healthcare
+MPW,Healthcare
+NHI,Healthcare
+OHI,Healthcare
+SBRA,Healthcare
+STRW,Healthcare
+UHT,Healthcare
+VTR,Healthcare
+WELL,Healthcare
+APLE,Lodging (Resorts)
+AHT,Lodging (Resorts)
+BHR,Lodging (Resorts)
+CLDT,Lodging (Resorts)
+DRH,Lodging (Resorts)
+HST,Lodging (Resorts)
+IHT,Lodging (Resorts)
+PK,Lodging (Resorts)
+PEB,Lodging (Resorts)
+RLJ,Lodging (Resorts)
+RHP,Lodging (Resorts)
+SOHO,Lodging (Resorts)
+INN,Lodging (Resorts)
+SHO,Lodging (Resorts)
+XHR,Self Storage
+CUBE,Self Storage
+EXR,Self Storage
+SELF,Self Storage
+NSA,Self Storage
+PSA,Self Storage
+PCH,Timberland
+RYN,Timberland
+WY,Timberland
+AMT,Telco
+CCI,Telco
+SBAC,Telco
+UNIT,Telco
+DLR,Data Centers
+EQIX,Data Centers
+GLPI,Gaming
+VICI,Gaming
+EPR,Specialty
+FPI,Specialty
+LAND,Specialty
+IRM,Specialty
+LAMR,Specialty
+OUT,Specialty
+PW,Specialty
+SAFE,Specialty
