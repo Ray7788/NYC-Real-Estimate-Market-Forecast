@@ -4,7 +4,7 @@ FT5005 Machine Learning for Finance [2420]
 
 ## Project Overview
 
-This repository contains group project work for FT5005 Machine Learning for Finance course at NUS.
+This repository contains final group project work for FT5005 Machine Learning for Finance course at NUS.
 
 ## Repository Structure
 
