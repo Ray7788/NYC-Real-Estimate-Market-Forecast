@@ -13,3 +13,29 @@ size>100M
 nyc-property-sales.csv
 
 FT5005 (Group 6)
+Cleaned Data/prediction_scatter_plots.png
+Cleaned Data/residual_plots.png
+Cleaned Data/stacking_improvement.png
+Cleaned Data/stacking_performance_comparison.png
+Cleaned Data/models/feature_names.pkl
+Cleaned Data/models/feature_names.txt
+Cleaned Data/models/lightgbm_model.pkl
+Cleaned Data/models/lightgbm_model.txt
+Cleaned Data/models/lightgbm_oof_preds.npy
+Cleaned Data/models/lightgbm_test_preds.npy
+Cleaned Data/models/lstm_model.h5
+Cleaned Data/models/lstm_oof_preds.npy
+Cleaned Data/models/lstm_scaling_info.pkl
+Cleaned Data/models/lstm_test_preds.npy
+Cleaned Data/models/random_forest_model.pkl
+Cleaned Data/models/random_forest_oof_preds.npy
+Cleaned Data/models/random_forest_test_preds.npy
+Cleaned Data/models/stacking_coefficients.csv
+Cleaned Data/models/stacking_model.pkl
+Cleaned Data/models/stacking_preds.npy
+Cleaned Data/models/test_data.joblib
+Cleaned Data/models/train_data.joblib
+Cleaned Data/models/xgboost_model.json
+Cleaned Data/models/xgboost_model.pkl
+Cleaned Data/models/xgboost_oof_preds.npy
+Cleaned Data/models/xgboost_test_preds.npy
