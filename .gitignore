@@ -43,3 +43,11 @@ Cleaned Data/ebitda_stacking.log
 Cleaned Data/ebitda_visualization.log
 Cleaned Data/models/lstm_test_indices.npy
 Cleaned Data/models/test_data_raw.joblib
+Cleaned Data/results/figures/error_distribution.png
+Cleaned Data/results/figures/feature_importance.png
+Cleaned Data/results/figures/model_comparison.png
+Cleaned Data/results/figures/predictions_vs_actual.png
+Cleaned Data/results/figures/stacking_contributions.png
+Cleaned Data/results/figures/stacking_error_boxplot.png
+Cleaned Data/results/figures/stacking_improvement.png
+Cleaned Data/results/figures/time_series_predictions.png
