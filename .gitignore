@@ -39,3 +39,7 @@ Cleaned Data/models/xgboost_model.json
 Cleaned Data/models/xgboost_model.pkl
 Cleaned Data/models/xgboost_oof_preds.npy
 Cleaned Data/models/xgboost_test_preds.npy
+Cleaned Data/ebitda_stacking.log
+Cleaned Data/ebitda_visualization.log
+Cleaned Data/models/lstm_test_indices.npy
+Cleaned Data/models/test_data_raw.joblib
